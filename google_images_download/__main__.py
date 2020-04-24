@@ -5,4 +5,4 @@ from .__init__ import main
 
 if __name__ == '__main__':
     main()
-#"nikemina ardha mavuthundha ardhamithe cheppu emcheyyalo anthe kani show cheyyaku"
+#"assdfasdfemina theliyadara em cheyyalo"
